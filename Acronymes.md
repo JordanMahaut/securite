@@ -1,0 +1,64 @@
+# Les acronymes
+
+- **API**
+  - Application progamming interface
+- **CDN**
+  - Content Delivery Network
+- **CMS**
+  - Content Management System
+- **CORS**
+  - Cross-Origin Resource Sharing
+- **CSP**
+  - Content Security Policy
+- **CSRF**
+  - Cross-Site Request Forgery
+- **CSS**
+  - Cascading Style Sheets
+- **CT**
+  - Certificate Transparency
+- **DOM**
+  - Document Object Model
+- **ECMA**
+  - European Computer Manufacturers Association
+- **ES6**
+  - ECMA Script 6
+- **FTP**
+  - File Transfer Protocol
+- **HSTS**
+  - HTTP Strict Transport Security
+- **HTML**
+  - HyperText Markup Language
+- **HTTP**
+  - HyperText Transfer Protocol
+- **HTTPS**
+  - HTTP Secure
+- **JSON**
+  - JavaScript Object Notation
+- **JSON-P**
+  - JSON with Padding
+- **REST**
+  - Representational State Transfer
+- **RGPD**
+  - Règlement Général sur la Protection des Données
+- **SOP**
+  - Same-Origin Policy
+- **SQL**
+  - Structured Query Language
+- **SQLI**
+  - SQL Injection
+- **SRI**
+  - Subresource Integrity
+- **TCP**
+  - Transmission Control Protocol
+- **TLD**
+  - Top-Level Domain
+- **TLS**
+  - Transport Layer Security
+- **URL**
+  - Uniform Resource Locator
+- **XHR**
+  - XMLHttpRequest
+- **XML**
+  - Extensible Markup Language
+- **XSS**
+  - Cross-Site Scripting
